@@ -1,25 +1,36 @@
-# "HTML Project for Beginners"
+# 🌮 Little Taco Shop
 
-✅ [Check out my YouTube Channel with all of my tutorials](https://www.youtube.com/DaveGrayTeachesCode).
+A fun and simple website for a fictional food store called **Little Taco Shop**, created while I was learning HTML and CSS.
 
-This repository shares the starter code for the [YouTube Tutorial](https://youtu.be/T5PD8ofhiug). 
+## 📌 Project Overview
 
-**Your Challenge:** Utilize the knowledge you have gained from the [HTML for Beginners](https://www.youtube.com/playlist?list=PL0Zuz27SZ-6OlAwitnFUubtE93DO-l0vu) tutorial series to build a website for The Little Taco Shop. 
+This project was built to practice and apply core web development skills (particularly HTML and CSS). It features a clean layout with navigation, a menu section, about section with contact and store hours page.
 
-**Directions:**
+## 🛠️ Built With
 
-- There are images of the 3 web pages you need to build in the examples folder. Use them as references for what you build.
+- HTML5
+- CSS3
 
-- You should name your files: index.html, hours.html, and contact.html
+## 📂 Features
 
-- There is minimal CSS already available in css/styles.css. You need to link that file to your HTML files. 
+- Homepage with a welcoming layout
+- Navigation bar linking to different sections
+- "About Us" section describing the taco shop
+- Menu section listing food items (with pricing for different quantities)
+- Contact section with a form
 
-- All images are provided in the img folder.
+## 🎯 What I Learned
 
-- If you need to find taco emojis, try [Emojipedia](https://emojipedia.org/taco/). 
+- Structuring a multi-section webpage using semantic HTML
+- Using CSS for layout, colors, spacing, and typography
 
-- A favicon is already included. You'll need to add it in the head section of each page.
+## 🔧 How to Use
 
-### Academic Honesty
+To view the project locally:
 
-**DO NOT COPY FOR AN ASSIGNMENT** - Avoid plagiargism and adhere to the spirit of this [Academic Honesty Policy](https://www.freecodecamp.org/news/academic-honesty-policy/).
+1. Clone the repository or download the ZIP
+2. Open `index.html` in your web browser
+
+```bash
+git clone https://github.com/your-username/little-taco-shop.git
+cd little-taco-shop
