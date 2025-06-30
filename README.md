@@ -38,6 +38,7 @@ This project was built to practice and apply core web development skills (partic
 - Menu section listing food items (with pricing for different quantities)
 - Contact section with a form
 - An about section with some info about the store
+- A section with store hours
 
 ---
 
