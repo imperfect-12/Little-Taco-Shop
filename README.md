@@ -67,7 +67,7 @@ To view the project locally:
 git clone https://github.com/your-username/little-taco-shop.git
 cd little-taco-shop
 ```
-        OR
+
 To view the live static site:
 
 1. Visit <a href="https://little-taco-shop-q6oe.onrender.com">Little Taco Shop</a>
