@@ -6,7 +6,7 @@ A fun and simple website for a fictional food store called **Little Taco Shop**,
 
 ## 📌 Project Overview
 
-This project was built to practice and apply core web development skills (particularly HTML and CSS). It features a clean layout with navigation, a menu section, about, contact and store hours page about section with contact and store hours page.
+This project was built to practice and apply core web development skills (particularly HTML and CSS). It features a clean Home page layout with a menu section and an about, contact and store hours page.
 
 ---
 
