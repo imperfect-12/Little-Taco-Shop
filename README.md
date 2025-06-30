@@ -70,6 +70,6 @@ cd little-taco-shop
 
 To view the live static site:
 
-1. Visit <a href="https://little-taco-shop-q6oe.onrender.com">Little Taco Shop</a>
-(location used in the project site are totally fictional)
-(credit for the images used - <a href="https://github.com/gitdagray">Dave Gray</a>
+1. Visit <a href="https://little-taco-shop-q6oe.onrender.com">Little Taco Shop</a> <br>
+(location used in the project site are totally fictional) <br>
+(credit for the images used - <a href="https://github.com/gitdagray">Dave Gray</a>)
